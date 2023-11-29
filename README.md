@@ -1,3 +1,5 @@
+**UPDATE:** This is fixed in the `9b457580e244086f3df5c7e49ac6e699cc6dc98e` commit.
+
 # Hono and Cloudflare Pages Starter to Demonstrate Environment Variables Don't Work Properly
 
 This project shows that environment variables in the in `.dev.vars` or `.env` files are not read and available in the server.
