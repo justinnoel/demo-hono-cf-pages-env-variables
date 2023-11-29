@@ -14,6 +14,7 @@ export default defineConfig({
         bindings: {
           TEST_VARIABLE: process.env.TEST_VARIABLE ?? '',
           VITE_TEST_VARIABLE: process.env.VITE_TEST_VARIABLE ?? '',
+          TEST_HARD_CODED: "hardcoded"
         },
       },
     })
